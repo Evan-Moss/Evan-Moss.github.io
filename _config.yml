@@ -10,7 +10,7 @@ title:            Evan Moss
 tagline:          'Blog'
 description:      'A third year computer science student at the University of Edinburgh. Follow me on twitter <a href="https://twitter.com/ev_jo_mo" target="_blank">@ev_jo_mo</a>.'
 url:              evan-moss.github.io
-baseurl:          evan-moss.github.io
+baseurl:          evan-moss.github.io/
 
 author:
   name:           'Mark Otto'
