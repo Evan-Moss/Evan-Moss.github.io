@@ -6,20 +6,22 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Evan Moss
+tagline:          'Blog'
+description:      'A third year computer science student at the University of Edinburgh. Follow me on twitter <a href="https://twitter.com/ev_jo_mo" target="_blank">@ev_jo_mo</a>.'
+url:              www.evanmoss.co.uk
 baseurl:          /
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+plugins: [jekyll-paginate]
+
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/poole/hyde
