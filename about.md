@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 I'm a third year computer science student at the University of Edinburgh. I'm trying to get better at formal software development as everything I've made so far is just mashed together python scripts. I thought having a website that looks exactly like every other software developers website was a good start. 
