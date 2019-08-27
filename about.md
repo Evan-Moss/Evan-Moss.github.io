@@ -13,4 +13,4 @@ I also tweet nonsense at [@ev\_jo\_mo](https://twitter.com/ev_jo_mo).
 
 ## Acknowledgements
 
-This website is made using [Hyde](http://hyde.getpoole.com/) theme by [@mdo](https://twitter.com/mdo) as the base. It uses [Jekyll](https://jekyllrb.com/) and is hosted through [GitHub Pages](https://pages.github.com). Biggest thanks to [@mdo](https://twitter.com/mdo) for the design.
+This website is made using the [Hyde](http://hyde.getpoole.com/) theme by [@mdo](https://twitter.com/mdo) as the base. It uses [Jekyll](https://jekyllrb.com/) and is hosted through [GitHub Pages](https://pages.github.com). Biggest thanks to [@mdo](https://twitter.com/mdo) for the design.
