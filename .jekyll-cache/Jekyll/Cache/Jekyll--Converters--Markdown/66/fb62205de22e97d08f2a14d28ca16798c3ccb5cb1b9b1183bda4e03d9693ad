@@ -1,0 +1,13 @@
+I"�<p><img class="small-img" src="../assets/profilepicture.png" alt="placeholder" title="Small example image" align="left" width="150" /></p>
+
+<p><a href="#" class="fa fa-facebook"></a>
+I’m a third year computer science student at the University of Edinburgh. I’m trying to get better at software development as everything I’ve made so far is just mashed together python scripts. I thought having a website that looks <strong>exactly</strong> like every other software developers website was a good start.</p>
+
+<p>You can follow me on <a href="https://github.com/Evan-Moss">GitHub</a>. It’s a right mess, there’s not much there - I’m still learning how it all works really. Don’t judge my poor practice!</p>
+
+<p>I also tweet nonsense at <a href="https://twitter.com/ev_jo_mo">@ev_jo_mo</a>.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This website is made with the <a href="http://hyde.getpoole.com/">Hyde</a> theme by <a href="https://twitter.com/mdo">@mdo</a>. It uses <a href="https://jekyllrb.com/">Jekyll</a> and is hosted through <a href="https://pages.github.com">GitHub Pages</a>. Biggest thanks to <a href="https://twitter.com/mdo">@mdo</a> for the design.</p>
+:ET

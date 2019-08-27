@@ -75,6 +75,17 @@ html {
   color: #fff;
 }
 
+/* Social Media Icons */
+.fab{
+  font-size: 1.3rem;
+  padding-left:1rem;
+  padding-right: 1rem;
+}
+.fab:hover{
+  opacity: 0.7;
+  text-decoration: none;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -94,7 +105,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  
 }
 .sidebar-nav-item.active {
   font-weight: bold;

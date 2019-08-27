@@ -76,7 +76,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  opacity: 0.7;
 }
 
 /* Headings */
@@ -230,8 +230,12 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 1rem 1rem 1rem;
   border-radius: 5px;
+}
+.small-img{
+  width: 10rem;
+  height: auto;
 }
 
 /* Tables */
@@ -330,7 +334,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 1em;
 }
 
 /* Blog post or page title */
@@ -343,6 +347,11 @@ tbody tr:nth-child(odd) th {
 .post-title {
   margin-top: 0;
 }
+.post-title-big{
+  margin-top:0;
+  font-size: 92px;
+}
+
 
 /* Meta data line below post title */
 .post-date {
@@ -350,6 +359,7 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-family: 'Roboto Mono', monospace;
 }
 
 /* Related posts */
