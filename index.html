@@ -14,7 +14,8 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content|truncatewords:25 }}
-    <a href = "{{post.url | prepend:site.baseurl}}"> </b></i>Read More</a>
+    </b></i></strong>
+    <a href = "{{post.url | prepend:site.baseurl}}">Read More</a>
     <hr>
   </div>
   {% endfor %}
