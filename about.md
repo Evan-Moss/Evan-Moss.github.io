@@ -2,14 +2,10 @@
 layout: page
 title: About
 ---
-<img class="small-img" src="/assets/profilepicture.png" alt="placeholder" title="Small example image" Align="left" width="150">
+<img class="small-img" src="/assets/profilepicture.png" alt="profilepicture" title="It's me, look" Align="left" width="150">
 
 
-I'm a third year computer science student at the University of Edinburgh. I'm trying to get better at software development as everything I've made so far is just mashed together python scripts. I thought having a website that looks **exactly** like every other software developers website was a good start.
-
-You can follow me on [GitHub](https://github.com/Evan-Moss). It's a right mess, there's not much there - I'm still learning how it all works really. Don't judge my poor practice!
-
-I also tweet nonsense at [@ev\_jo\_mo](https://twitter.com/ev_jo_mo).
+I'm a third year computer science student at the University of Edinburgh. You can follow me on [GitHub](https://github.com/Evan-Moss). 
 
 ## Acknowledgements
 
