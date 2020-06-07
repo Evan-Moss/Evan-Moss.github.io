@@ -1,27 +1,27 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Evan Moss
-tagline:          'Blog'
-description:      'A third year computer science student at the University of Edinburgh. Follow me on twitter <a href="https://twitter.com/ev_jo_mo" target="_blank">@ev_jo_mo</a>.'
-url:              evan-moss.github.io
-baseurl:          /
-
+---
+title: Evan Moss
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+tagline: Blog
+description: A third year computer science student at the University of Edinburgh.
+  Follow me on twitter <a href="https://twitter.com/ev_jo_mo" target="_blank">@ev_jo_mo</a>.
+url: evan-moss.github.io
+baseurl: "/"
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-plugins: [jekyll-paginate]
-
+  name: Mark Otto
+  url: https://twitter.com/mdo
+plugins:
+- jekyll-paginate
 paginate: 5
-
-# Custom vars
-version:          1.0.0
-
+version: 1.0.0
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde

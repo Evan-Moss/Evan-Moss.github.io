@@ -1,7 +1,8 @@
 ---
-layout: page
 title: About
+layout: page
 ---
+
 <img class="small-img" src="/assets/profilepicture.png" alt="placeholder" title="it's me!" Align="left" width="150">
 
 

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Hello World
+date: 2019-08-27 00:00:00 Z
+layout: post
 ---
 
 "Bloody hell Evan, that's an original name for a first post - you are a true visionary." I know, I know, I have made **the most** stereotypical software developer website. I've even linked my GitHub, look (I still don't understand how GitHub works). I've added a little footer with the little *made with love* thing that you see on proper open-source projects too. I don't know about you but I think this is a major step in me becoming a software developer. I might start wearing hoodies and stop speaking to people.
